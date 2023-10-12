@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, comicsansms;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: #254de4;
+    color: #fff;
+    margin: 10px;
+}
+
+.flex-container {
+    height: 400px;
+    display: flex;
+    background-color: #f4f4f4;    
+    justify-content: space-between;
+    align-items: end;
+}
+
+
+
+
